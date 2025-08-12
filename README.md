@@ -8,7 +8,7 @@
 ---
 
 ## 🌟 About Me
-- 🎓 **IT student** at *Atmiya University*, passionate about building impactful tech solutions.  
+- 🎓 **IT student** at **Atmiya University**, passionate about building impactful tech solutions.  
 - 🤖 Exploring **AI/ML**, **Cloud Security**, and **Cybersecurity**.  
 - 🛠 Skilled in **SQL**, **Data Visualization**, **Web Development**, and **Ethical Hacking**.  
 - 🧠 I believe in *learning by building* and tackling real-world problems with technology.  
@@ -42,7 +42,7 @@
 
 ## 📊 GitHub Stats & Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejas3545&show_icons=true&theme=tokyonight" height="160" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Tejas3545&show_icons=true&theme=tokyonight" height="160" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas3545&theme=tokyonight" height="160" />
 </p>
 
