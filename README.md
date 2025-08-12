@@ -8,7 +8,7 @@
 - 🛠 Skilled in **SQL, Data Visualization, Ethical Hacking, and Web Development**
 - 💡 Passionate about **Cloud Security** and **AI Applications**
 - 👯 Open to collaborating on **AI/ML Projects, Web Apps, and Security Tools**
-- 📫 Reach me at **tejas.solanki@example.com**
+- 📫 Reach me at **tejassolanki5881@gmail.com**
 - ⚡ Fun fact: *I’m powered by coffee & curiosity*
 
 ---
