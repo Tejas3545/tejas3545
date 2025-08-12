@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mizok/readme-day-night/raw/master/images/readme-day-night.svg" alt="Day/Night Clock Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=F7F7F7&background=00000000&width=435&height=40&lines=A+Passionate+Cloud+Engineer;Web+Developer;Cyber+Analyst" alt="Typing Animation" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Tejas J Solanki</h1>
@@ -44,9 +44,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tejas3545&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas3545&theme=tokyonight" height="160" />
-</p>
-<p align="center">
-  <img src="./profile-3d-contrib/profile-season-contrib.svg" alt="Tejas's 3D Contributions" />
 </p>
 
 ---
