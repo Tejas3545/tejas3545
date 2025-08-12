@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgM9CgLq51N1o1G1tK/giphy.gif" alt="Study Animation" width="100%" />
+  <img src="https://media.giphy.com/media/qgM9CgLq51N1o1G1tK/giphy.gif" alt="Professional Tech Animation" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Tejas J Solanki</h1>
