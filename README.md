@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=F7F7F7&background=00000000&width=435&height=40&lines=A+Passionate+Cloud+Engineer;Web+Developer;Cyber+Analyst" alt="Typing Animation" />
+  <img src="https://codewars.vercel.app/api/digital-clock" alt="Live Digital Clock" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Tejas J Solanki</h1>
