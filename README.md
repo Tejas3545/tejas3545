@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Tejas+Solanki;AI%2FML+%26+Cloud+Security+Enthusiast;Web+Developer+%7C+Cybersecurity+Learner;Always+Learning+%F0%9F%93%9A+Always+Building+%F0%9F%94%A7" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Tejas%20Solanki&fontSize=45&fontAlignY=35&desc=AI/ML%20|%20Cloud%20Security%20|%20Web%20Developer&descAlignY=55&animation=fadeIn" />
 </p>
+
 
 <h1 align="center">👋 Hi, I'm Tejas Solanki</h1>
 <h3 align="center">Pre-Final Year at Atmiya University | IT'27 | AI/ML | Cloud Computing & Security | Web Developer | Cybersecurity Enthusiast</h3>
