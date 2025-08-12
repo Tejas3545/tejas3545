@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+developer.;I+love+open+source.;I+am+passionate+about+learning.&center=true&size=20">
+    <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Developer.;I+love+Fixing+Bugs.;I+am+passionate+about+learning+AL/ML.&center=true&size=20">
   </a>
 </p>
 
