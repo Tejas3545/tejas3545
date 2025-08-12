@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Tejas%20Solanki&fontSize=45&fontAlignY=35&desc=AI/ML%20|%20Cloud%20Security%20|%20Web%20Developer&descAlignY=55&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Tejas%20Solanki&fontSize=45&desc=AI/ML%20|%20Cloud%20Security%20|%20Web%20Developer&animation=fadeIn" />
 </p>
-
 
 <h1 align="center">👋 Hi, I'm Tejas Solanki</h1>
 <h3 align="center">Pre-Final Year at Atmiya University | IT'27 | AI/ML | Cloud Computing & Security | Web Developer | Cybersecurity Enthusiast</h3>
