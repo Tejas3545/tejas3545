@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Tejas J Solanki</h1>
-<h3 align="center">Pre-Final Year at Atmiya University | IT'27 | AI/ML | Cloud Computing & Security | Web Developer | Cybersecurity Enthusiast</h3>
+<h3 align="center">A Passionate Cloud Engineer | Web Developer | Cyber Analyst</h3>
 
 ---
 
