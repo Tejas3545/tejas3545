@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://codewars.vercel.app/api/digital-clock" alt="Live Digital Clock" />
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+developer.;I+love+open+source.;I+am+passionate+about+learning.&center=true&size=20">
+  </a>
 </p>
 
 <h1 align="center">👋 Hi, I'm Tejas J Solanki</h1>
