@@ -1,11 +1,6 @@
 <p align="center">
-  <img src="./assets/neutral-banner.gif" alt="Header Animation" width="100%" />
+  <img src="https://clau555.github.io/seaside/" alt="Day/Night Cycle Animation" width="100%" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%91%8B%20Hi%2C%20I'm%20Tejas%20J%20Solanki%3BA%20Passionate%20Cloud%20Engineer%3BWeb%20Developer%3BCyber%20Analyst&font=Press%20Start%202P&center=true&width=440&height=45&color=f70000&vCenter=true&pause=1000&random=false" alt="Animated Tejas Solanki's Intro">
-</p>
-
 
 <h1 align="center">👋 Hi, I'm Tejas J Solanki</h1>
 <h3 align="center">A Passionate Cloud Engineer | Web Developer | Cyber Analyst</h3>
