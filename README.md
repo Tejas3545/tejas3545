@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Tejas%20Solanki&fontSize=45&desc=AI/ML%20|%20Cloud%20Security%20|%20Web%20Developer&animation=fadeIn" />
+  <img src="./assets/neutral-banner.gif" alt="Header Animation" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Tejas Solanki</h1>
+<h1 align="center">👋 Hi, I'm Tejas J Solanki</h1>
 <h3 align="center">Pre-Final Year at Atmiya University | IT'27 | AI/ML | Cloud Computing & Security | Web Developer | Cybersecurity Enthusiast</h3>
 
 ---
