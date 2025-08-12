@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/neutral-banner.gif" alt="Header Animation" width="100%" />
+  <img src="https://media.giphy.com/media/qgM9CgLq51N1o1G1tK/giphy.gif" alt="Study Animation" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Tejas J Solanki</h1>
@@ -42,8 +42,8 @@
 
 ## 📊 GitHub Stats & Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejas3545&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas3545&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejas3545&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas3545&theme=tokyonight" height="160" />
 </p>
 <p align="center">
   <img src="./profile-3d-contrib/profile-season-contrib.svg" alt="Tejas's 3D Contributions" />
