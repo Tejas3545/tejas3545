@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://clau555.github.io/seaside/" alt="Day/Night Cycle Animation" width="100%" />
+  <img src="./assets/neutral-banner.gif" alt="Header Animation" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Tejas J Solanki</h1>
