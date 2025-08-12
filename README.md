@@ -8,12 +8,12 @@
 ---
 
 ## 🌟 About Me
-- 🎓 **IT student** at **Atmiya University**, passionate about building impactful tech solutions.  
-- 🤖 Exploring **AI/ML**, **Cloud Security**, and **Cybersecurity**.  
-- 🛠 Skilled in **SQL**, **Data Visualization**, **Web Development**, and **Ethical Hacking**.  
-- 🧠 I believe in *learning by building* and tackling real-world problems with technology.  
-- ☕ Coffee is my fuel, curiosity is my drive!  
-- 📫 Reach me at: **tejassolanki5881@gmail.com**  
+- 🎓 **IT student** at **Atmiya University**, passionate about building impactful tech solutions.
+- 🤖 Exploring **AI/ML**, **Cloud Security**, and **Cybersecurity**.
+- 🛠 Skilled in **SQL**, **Data Visualization**, **Web Development**, and **Ethical Hacking**.
+- 🧠 I believe in *learning by building* and tackling real-world problems with technology.
+- ☕ Coffee is my fuel, curiosity is my drive!
+- 📫 Reach me at: **tejassolanki5881@gmail.com**
 
 ---
 
@@ -45,6 +45,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Tejas3545&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas3545&theme=tokyonight" height="160" />
 </p>
+<p align="center">
+  <img src="./profile-3d-contrib/profile-season-contrib.svg" alt="Tejas's 3D Contributions" />
+</p>
+
 ---
 
 ## 🌐 Connect with Me
@@ -56,8 +60,8 @@
 ---
 
 ## 🎯 Fun Facts
-- 🌌 I love stargazing almost as much as coding.  
-- 🎮 Gaming is my go-to creativity recharge.  
+- 🌌 I love stargazing almost as much as coding.
+- 🎮 Gaming is my go-to creativity recharge.
 - 💡 Favorite motto: *“Code is like humor. When you have to explain it, it’s bad.”*
 
 ---
